@@ -40,7 +40,7 @@
 - 💬 Ask me about Machine Learning or Deep Learning related stuff.
 - 📫 How to reach me: [Twitter - @SubhamC60215442](https://twitter.com/SubhamC60215442) , [Gmail](subhamchakraborty01748@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend my time by learning and exploring different technologies and also by paying games(pubg,COD) everyday.
+- ⚡ Fun fact: I spend my time by learning and exploring different technologies and also by playing games(pubg,COD) everyday.
 
 [![Twitter: SubhamC60215442](https://img.shields.io/twitter/follow/SubhamC60215442?style=social)](https://twitter.com/SubhamC60215442)
 [![Linkedin: subham-chakraborty-803682143](https://img.shields.io/badge/-subham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subham-chakraborty-803682143/)](https://www.linkedin.com/in/subham-chakraborty-803682143/)
