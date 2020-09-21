@@ -38,7 +38,7 @@
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/subham-chakraborty-803682143/).
 - 🤔 I’m looking for help with my Django project.
 - 💬 Ask me about Machine Learning or Deep Learning related stuff.
-- 📫 How to reach me: [Twitter - @SubhamC60215442](https://twitter.com/SubhamC60215442) , [Gmail](subhamchakraborty01748@gmail.com)
+- 📫 How to reach me: [Twitter - @SubhamC60215442](https://twitter.com/SubhamC60215442) , Gmail: subhamchakraborty01748@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend my time by learning and exploring different technologies and also by playing games(pubg,COD) everyday.
 
