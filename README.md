@@ -61,9 +61,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhamchakraborty23" alt="subhamchakraborty23" /></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamchakraborty23&show_icons=true&locale=en&layout=compact" alt="subhamchakraborty23" /></p>
-<a href="https://github.com/subhamChakraborty23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamChakraborty23&theme=dark&hide_langs_below=1" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamchakraborty23&show_icons=true&locale=en" alt="subhamchakraborty23" /></p>
 
 <a href="https://github.com/subhamChakraborty23/Stock_Price_Dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=subhamChakraborty23&repo=Stock_Price_Dashboard&theme=dark" />
