@@ -1,9 +1,10 @@
 
+<img align="left" alt="Coding" width="100" height ="100" src="https://octodex.github.com/images/ironcat.jpg">
 <h1 align="center">Hi 👋, I'm Subham Chakraborty</h1>
 <h3 align="center">A passionate engineer from India</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=subhamChakraborty23&label=Views&color=blue&style=plastic" alt="subhamChakrabort23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamChakraborty23&label=Views&color=blue&style=plastic" alt="subhamChakrabort23" /> </p>
 
-
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
