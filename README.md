@@ -54,7 +54,8 @@
 [![Twitter: SubhamC60215442](https://img.shields.io/twitter/follow/SubhamC60215442?style=social)](https://twitter.com/SubhamC60215442)
 [![Linkedin: subham-chakraborty-803682143](https://img.shields.io/badge/-subham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subham-chakraborty-803682143/)](https://www.linkedin.com/in/subham-chakraborty-803682143/)
 [![GitHub subhamChakraborty23](https://img.shields.io/github/followers/subhamChakraborty23?label=follow&style=social)](https://github.com/subhamChakraborty23)
-[![website](https://img.shields.io/badge/PortfolioWebsite-awesome-subham-nita015.netlify.app/-2648ff?style=flat-square&logo=google-chrome)](https://awesome-subham-nita015.netlify.app/)
+<br/>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logoColor=white&link=https://awesome-subham-nita015.netlify.app/)](https://awesome-subham-nita015.netlify.app/)
 
 
 #### Skills 🤖
