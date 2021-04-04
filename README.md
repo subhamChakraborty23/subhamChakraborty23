@@ -4,7 +4,7 @@
 <h3 align="center">A passionate engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamChakraborty23&label=Views&color=blue&style=plastic" alt="subhamChakrabort23" /> </p>
 
-<img align="right" alt="Coding" width="match-parent" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif">
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
