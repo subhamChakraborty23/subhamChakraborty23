@@ -43,10 +43,10 @@
 
 
 - 🔭 I’m currently pursuing my B.Tech in E.C.E from NIT Agartala(final year student).
-- 🌱 I’m currently learning more about Flutter and Dart.
+- 🌱 I’m currently learning about MERN stack.
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/subham-chakraborty-803682143/).
-- 🤔 I’m looking for help with my Django project.
-- 💬 Ask me about Machine Learning or Deep Learning related stuff.
+- 🤔 I’m looking for help with my Final year project which is related to Smart Traffic light controller.
+- 💬 Ask me about Machine Learning and web development stuff.
 - 📫 How to reach me: [Twitter - @SubhamC60215442](https://twitter.com/SubhamC60215442) , Gmail: subhamchakraborty01748@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend my time by learning and exploring different technologies and also by playing games(pubg,COD) everyday.
@@ -67,7 +67,7 @@
 ```text
 C++(DS&Algo)    ██████████████████░░░░░░░ 
 Python          ████████████████████░░░░░ 
-Data Science    ███████████████░░░░░░░░░░ 
+MERN Stack      ███████████████░░░░░░░░░░ 
 Flask           ███████████░░░░░░░░░░░░░░
 Django          ███████████░░░░░░░░░░░░░░ 
 SQL             ███████████████░░░░░░░░░░
