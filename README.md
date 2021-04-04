@@ -92,10 +92,12 @@ Linux           ██████████████████░░░�
 <br />
 
 ---
-### Top Languages 👨‍💻
+#### Top Languages 👨‍💻
 <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs?username=subhamchakraborty23&show_icons=true&locale=en&layout=compact&theme=radical' alt="subhamchakraborty23"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhamchakraborty23" alt="subhamchakraborty23" /></a></p>
+<br/>
+
 #### Stats 👨‍💻
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamchakraborty23&show_icons=true&theme=radical" alt="subhamchakraborty23" /></p>
 
