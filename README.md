@@ -41,11 +41,11 @@
 <br/>
 
 
-
-- 🔭 I’m currently pursuing my B.Tech in E.C.E from NIT Agartala(final year student).
-- 🌱 I’m currently learning about MERN stack.
+- 👨🏻‍💻 I'm currently working as a software engineer at Jio Platforms mostly on Java Stack
+- 👨🏻‍🎓 I have completed my B.Tech in E.C.E from NIT Agartala(2021).
+- 🌱 I’m currently learning about LLD and HLD.
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/subham-chakraborty-803682143/).
-- 🤔 I’m looking for help with my Final year project which is related to Smart Traffic light controller.
+- 🤔 I’m looking for resources to be better at backend development.
 - 💬 Ask me about Machine Learning and web development stuff.
 - 📫 How to reach me: [Twitter - @SubhamC60215442](https://twitter.com/SubhamC60215442) , Gmail: subhamchakraborty01748@gmail.com
 - 😄 It is good to see you here on my profile.
@@ -85,7 +85,7 @@ C++(DS&Algo)    ██████████████████░░░�
 Python          ████████████████████░░░░░ 
 MERN Stack      ███████████████░░░░░░░░░░ 
 Flask           ███████████░░░░░░░░░░░░░░
-Django          ███████████░░░░░░░░░░░░░░ 
+Java            ███████████░░░░░░░░░░░░░░ 
 SQL             ███████████████░░░░░░░░░░
 Linux           ██████████████████░░░░░░░
 ```
