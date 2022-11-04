@@ -41,9 +41,9 @@
 <br/>
 
 
-- 👨🏻‍💻 I'm currently working as a software engineer at Jio Platforms mostly on Java Stack
+- 👨🏻‍💻 I'm currently working as a SDE at Amazon Ads(June,2022 - present) , Ex SDE at Jio Platforms(5G R&D Team - ATOM Project)(May,2021 - May,2022)
 - 👨🏻‍🎓 I have completed my B.Tech in E.C.E from NIT Agartala(2021).
-- 🌱 I’m currently learning about LLD and HLD.
+- 🌱 I’m currently learning about AWS and Distributed Systems
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/subham-chakraborty-803682143/).
 - 🤔 I’m looking for resources to be better at backend development.
 - 💬 Ask me about Machine Learning and web development stuff.
